@@ -1,3 +1,6 @@
 [submodule "Data-Generator"]
 	path = Data-Generator
 	url = https://github.com/leaguetrends/Data-Generator.git
+[submodule "leaguetrends.github.io"]
+	path = leaguetrends.github.io
+	url = https://github.com/leaguetrends/leaguetrends.github.io.git
