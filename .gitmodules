@@ -1,0 +1,3 @@
+[submodule "Data-Generator"]
+	path = Data-Generator
+	url = https://github.com/leaguetrends/Data-Generator.git
